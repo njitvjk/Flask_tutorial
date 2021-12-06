@@ -11285,4 +11285,12 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+
+  .alert.success {
+  background-color: green;
+}
+
+.alert.error {
+  background-color: red;
+}
 }
