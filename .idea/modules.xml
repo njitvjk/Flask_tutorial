@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/OneDrive/Documents/calc2-webCalc-Part1/.idea/calc2-webCalc-Part1.iml" filepath="$USER_HOME$/OneDrive/Documents/calc2-webCalc-Part1/.idea/calc2-webCalc-Part1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/flaskProject.iml" filepath="$PROJECT_DIR$/.idea/flaskProject.iml" />
     </modules>
   </component>
