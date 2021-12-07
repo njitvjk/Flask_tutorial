@@ -1,25 +1,40 @@
-# Homework - Flash Messages and Validation
+# Homework - Beautiful tables
 <hr>
-##### Flash message and validation 
-1.Simple login functionality<br/>
-2. Flash messages - Success and failure on Login<br/>
-3. Bootstrap implemented for flash messages<br/>
+##### Rendering a table with data in a Flask template
+1.Creating fake data<br/>
+2.Bootstraping tables <br/>
+3.Basic table with enhancement<br/>
+3.Adding an Ajax Data Source<br/>
+3.Server-Driven Tablet<br/>
 
 screenshots 
-Homepage 
-![img.png](img.png)
+Rendering a table in Flask 
+1. Added additional columns in the sqllite db and created 100 fake records <br/>
+![img_4.png](img_4.png)<br/>
+![img_5.png](img_5.png)<br/>
 
-Login Dashboard
-![img_1.png](img_1.png)
 
-Login Failure
-![img_2.png](img_2.png)
+Basic Table
+![img_6.png](img_6.png)
 
-Login Success- Page redirects back to homepage showing Flash
-![img_3.png](img_3.png)
+After Adding the following block for enhancing the page and the table
+![img_7.png](img_7.png)
+The output<br/>
+![img_8.png](img_8.png)
+The output with search and sort capability
+![img_9.png](img_9.png)<br/><br/>
 
-Additonal Jinja sceenshots for flash categories followed professor weblink
-[flashing patterns](https://docs.google.com/document/d/1uUM0_j7EgIyB2kwxaLZ5Z5yvC5G_0K7P/edit?usp=sharing&ouid=113074241322915041477&rtpof=true&sd=true)
+After adding Ajax 
+![img_10.png](img_10.png)<br/>
+
+Server-Driven Table
+![img_11.png](img_11.png)
+
+Searching based on the following code 
+![img_12.png](img_12.png)
+![img_13.png](img_13.png)
+![img_14.png](img_14.png)
+
 
 
 
