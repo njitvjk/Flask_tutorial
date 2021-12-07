@@ -30,9 +30,9 @@ After adding Ajax
 Server-Driven Table
 ![img_11.png](img_11.png)
 
-Searching based on the following code 
+Searching based on the following code -name and email
 ![img_12.png](img_12.png)
-![img_13.png](img_13.png)
+![img_15.png](img_15.png)
 ![img_14.png](img_14.png)
 
 
